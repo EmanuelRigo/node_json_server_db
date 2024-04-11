@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "7db3"
+    },
+    {
+      "id": "c9da",
+      "nombre": "Camila",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "260c"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "ed07"
+    },
+    {
+      "id": "43e1",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "992e"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "cf98"
+    },
+    {
+      "nombre": "AngularJS 17 desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "6ed2"
+    }
+  ]
+}
